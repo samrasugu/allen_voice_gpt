@@ -5,7 +5,7 @@ A Flutter mobile app that provides a UI to interact with OpenAI platform service
 ## Demo
 
 <!-- ![Allen](/allenimg.jpeg) -->
-<img src="/allenimg.jpeg" alt="Allen" width="300" height="200">
+<img src="/allenimg.jpeg" alt="Allen" width="300">
 
 
 ## How to use the app
