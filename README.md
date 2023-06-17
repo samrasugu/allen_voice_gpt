@@ -1,16 +1,15 @@
 # allen
 
-A new Flutter project.
+A Flutter mobile app that provides a UI to interact with OpenAI platform services - ChatGPT, Dall-E and speech-to-text .
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+![Allen](/allenimg.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+## How to use the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run `flutter pub get` in the project directory.
+
+In the `lib/secrets.dart` file, replace `YOUR_API_KEY_HERE` with a valid API Key you create in your OpenAI account.
